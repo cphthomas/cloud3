@@ -1,0 +1,28 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561540859605.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2881349845",
+    "id" : "498CF3E6",
+    "lastKnownWriteTime" : 1562836342,
+    "last_content_update" : 1562836342972,
+    "path" : "/cloud/project/01-JURA.Rmd",
+    "project_path" : "01-JURA.Rmd",
+    "properties" : {
+        "content_preview_inline" : "true",
+        "cursorPosition" : "13103,0",
+        "docOutlineSize" : "213",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "13086"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

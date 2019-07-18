@@ -1,0 +1,23 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Login</a></li>
+      after: |
+        <li><a href="./">Login</a></li>
+    download: no
+    sharing:
+      facebook: no
+      twitter: no
+      google: no
+      linkedin: no
+      weibo: no
+      instapper: no
+      vk: no
+      all: no
+includes:
+      after_body: disqus.html
+
+
+

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1561542395187.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2968FE6",
+    "lastKnownWriteTime" : 1561928085,
+    "last_content_update" : 1561928085844,
+    "path" : "/cloud/project/script.R",
+    "project_path" : "script.R",
+    "properties" : {
+        "cursorPosition" : "4,0",
+        "docOutlineVisible" : "1",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

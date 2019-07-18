@@ -1,0 +1,5 @@
+"0","  # row_spec(1,italic = T,bold = T,font_size = 12)"
+"0","  # column_spec(0, angle = -45)%>%"
+"0","  # scroll_box(width = ""500px"") %>%"
+"0","  # footnote(general = ""Forsikringsankenævnets klageguide"",general_title = ""Kilde:"")%>%"
+"0","# footnote(number = ""Hvis skadevolder er under 14 år eller er utilregnelig, kan der dog være dækning selv om handlingen er forvoldt forsætligt"")"
